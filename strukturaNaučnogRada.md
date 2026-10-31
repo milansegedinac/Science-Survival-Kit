@@ -40,15 +40,12 @@ U ovoj sekciji čitalac treba da se uvede u temu. Iako se _Uvod_ čita prvi i to
 
 Naučni rad ima **jedan glavni doprinos**. Ukoliko se ispostavi da rad ima više različitih doprinosa (razvijeno je više različitih teorija, razvijeno više različitih softverskih rešenja) najverovatnije je u pitanju ili više različitih radova ili nijedan rad vredan publikovanja. **Beznačajnost doprinosa ne može se prevazići gomilanjem beznačajnih doprinosa**. Ukoliko je doprinos beznačajan, na primer, ukoliko je teorija koja se predlaže u radu marginalna i neinovativna, rad neće biti bolji ako se doda još jedna marginalna teorija. Samo će biti još gori.
 
-**Problem Statement**: deo uvoda koji jasno odgovara na pitanje _šta_ se u istraživanju radi. To je drugi po važnosti deo rada, od njega je važniji samo paragraf o doprinosu i zato mu se mora posvetiti posebna pažnja. Ovaj deo mora da bude jasan i metodološki čist.
-
-Ovaj deo sadrži:
-- Narativni opis sistema: u grubim crtama opisati sistem, bez prikaza slučaja i primera upotrebe sistema. Ko su akteri, šta se posmatra, šta se meri, šta se kontroliše? (1-2 paragrafa)
-- Formalni, matematički model problema (ako postoji).
-- Pretpostavke: šta se uzima u obzir, šta se zanemaruje? (1-2 paragrafa)
-- Hipoteza: __najvažnije!__ šta Vaš rad tačno proverava? Šta tačno tvrdite? Hipoteza mora da bude u takvom obliku da se __može pobiti__, odnosno da je apsolutno jasno koji rezultati bi doveli do toga da se hipoteza odbaci. __Naučni rad ima jednu hipotezu.__ Ukoliko rad ima više hipoteza, najverovatnije se radi o više radova.
-- Istraživačka pitanja: __važno!__ Proizilaze iz hipoteze. Rad ima nekoliko istraživačkih pitanja, tipično 2 do 4. Za svako istraživačko pitanje je jasno kako se može pobiti. Dobro je da ostvarenost istraživačkih pitanja može da se izmeri i kvantifikuje, pa da se kaže da je ostvareno u izvesnoj meri. Ostvarenost istraživačkih pitanja direktno rezultuje potvrđivanjem ili pobijanjem hipoteze.
-- Veza sa metodologijom: metodologija u radu služi da potvrdi ili pobije istraživačka pitanja i time, posredno, potvrdi ili pobije hipotezu. Metodologiji se posvećuje posebna sekcija, ali dobro je da _Problem Statement_ ima vezu ka toj sekciji.
+- Problem Statement: deo uvoda koji jasno odgovara na pitanje _šta_ se u istraživanju radi. To je drugi po važnosti deo rada, od njega je važniji samo paragraf o doprinosu i zato mu se mora posvetiti posebna pažnja. Ovaj deo mora da bude jasan i metodološki čist.Ovaj deo sadrži:
+    - Narativni opis sistema: u grubim crtama opisati sistem, bez prikaza slučaja i primera upotrebe sistema. Ko su akteri, šta se posmatra, šta se meri, šta se kontroliše? (1-2 paragrafa)
+    - Pretpostavke: šta se uzima u obzir, šta se zanemaruje? (1-2 paragrafa)
+    - Hipoteza: __najvažnije!__ šta Vaš rad tačno proverava? Šta tačno tvrdite? Hipoteza mora da bude u takvom obliku da se __može pobiti__, odnosno da je apsolutno jasno koji rezultati bi doveli do toga da se hipoteza odbaci. __Naučni rad ima jednu hipotezu.__ Ukoliko rad ima više hipoteza, najverovatnije se radi o više radova.
+    - Istraživačka pitanja: __važno!__ Proizilaze iz hipoteze. Rad ima nekoliko istraživačkih pitanja, tipično 2 do 4. Za svako istraživačko pitanje je jasno kako se može pobiti. Dobro je da ostvarenost istraživačkih pitanja može da se izmeri i kvantifikuje, pa da se kaže da je ostvareno u izvesnoj meri. Ostvarenost istraživačkih pitanja direktno rezultuje potvrđivanjem ili pobijanjem hipoteze.
+    - Veza sa metodologijom: metodologija u radu služi da potvrdi ili pobije istraživačka pitanja i time, posredno, potvrdi ili pobije hipotezu. Metodologiji se posvećuje posebna sekcija, ali dobro je da _Problem Statement_ ima vezu ka toj sekciji.
 
 - Pregled strukture rada: koja poglavlja će biti u radu? Mapa puta za čitaoca. (1 paragraf)
 
